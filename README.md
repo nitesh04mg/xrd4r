@@ -29,7 +29,7 @@ Automatically welcomes new users in Instagram groups, tracks activity & pings on
 1. Clone this repo:
 
    ```bash
-   git clone https://github.com/nitesh04mg/IG-GroupBot.git
+   git clone https://github.com/nitesh04mg/xrd4r.git
    cd IG-GroupBot
    pip install -r requirements.txt
    python3 main.py
