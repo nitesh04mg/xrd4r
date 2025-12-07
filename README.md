@@ -1,4 +1,4 @@
-# ![Instagram Logo](https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg)
+#
 
 **Instagram Group Welcome Bot** with Multi-Group Support 🚀  
 Automatically welcomes new users in Instagram groups, tracks activity & pings online members.
@@ -19,7 +19,7 @@ Automatically welcomes new users in Instagram groups, tracks activity & pings on
 ## 📋 Requirements
 
 - Python 3.8+  
-- [Playwright](https://playwright.dev/python/)  
+- [Playwright] 
 - python-dotenv
 
 ---
@@ -29,7 +29,7 @@ Automatically welcomes new users in Instagram groups, tracks activity & pings on
 1. Clone this repo:
 
    ```bash
-   git clone https://github.com/otterai/IG-GroupBot.git
+   git clone https://github.com/nitesh04mg/IG-GroupBot.git
    cd IG-GroupBot
    pip install -r requirements.txt
    python3 main.py
