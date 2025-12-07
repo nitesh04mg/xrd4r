@@ -30,7 +30,7 @@ Automatically welcomes new users in Instagram groups, tracks activity & pings on
 
    ```bash
    git clone https://github.com/nitesh04mg/xrd4r.git
-   cd IG-GroupBot
+   cd xrd4r
    pip install -r requirements.txt
    python3 main.py
    
